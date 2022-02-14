@@ -8,4 +8,4 @@ XAMPP Control
 
 **Note:**
 
-Few pages are not connected to server
+Few pages are not connected to server..
