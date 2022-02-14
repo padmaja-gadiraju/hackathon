@@ -1,0 +1,10 @@
+body {
+    background-image: url(https://assets.siccode.com/i-n-b/naics-code-484-truck-transportation.jpg);
+    background-repeat: no-repeat;
+    background-size: 1600px 900px;
+}
+table,th,td{
+    border: 2px solid black;
+    width: 1100px;
+    background-color: white;
+}
