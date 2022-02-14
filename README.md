@@ -3,8 +3,8 @@ Transportation
 
 **SoftWares Used:**
 
--Visual Studio Code
--XAMPP Control
+*Visual Studio Code
+*XAMPP Control
 
 **Note:**
 
