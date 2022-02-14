@@ -1,9 +1,11 @@
 # hackathon
 Transportation
 
-##**SoftWares Used:**
+**SoftWares Used:**
+
 Visual Studio Code
 XAMPP Control
 
-##**Note:**
+**Note:**
+
 Few pages are not connected to server
